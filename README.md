@@ -11,5 +11,5 @@ Some services, such as third-party APIs (e.g., payment gateways), mainframes, or
      Making API simulation accessible to all testers and developers helps the team complete more automated testing.
                                                                                                                                                               
 ## How to use API Simulator in toscacloud along with Neoload to virtualize your expensive service. 
-For detailed steps pls refer:BSD Simplified](https://github.com/Performance-Test-Lab/APISimulator/blob/main/HowTo%20NL%2BAPI%20SIM.docx)  
+For detailed steps pls refer:https://github.com/Performance-Test-Lab/APISimulator/blob/main/HowTo%20NL%2BAPI%20SIM.docx
 
